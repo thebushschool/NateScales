@@ -10,6 +10,7 @@ void settings() {
    size(xDim,yDim); //Since I'm using variables this needs to be putting in settings() for some reason
 }
 void setup() {
+settings
     coloring();
 }
 
